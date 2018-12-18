@@ -1,0 +1,38 @@
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\nesne takibi 3x3 led yakma canlı görüntü.exe.config
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\nesne takibi 3x3 led yakma canlı görüntü.exe
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\nesne takibi 3x3 led yakma canlı görüntü.pdb
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.dll
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Imaging.dll
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Video.dll
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Math.dll
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.xml
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Imaging.xml
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Video.xml
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Math.xml
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csprojAssemblyReference.cache
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne_takibi_3x3_led_yakma_canlı_görüntü.Form1.resources
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne_takibi_3x3_led_yakma_canlı_görüntü.Properties.Resources.resources
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csproj.GenerateResource.cache
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csproj.CoreCompileInputs.cache
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csproj.CopyComplete
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.exe
+C:\Users\Recep AKBULUT\source\repos\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.pdb
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\nesne takibi 3x3 led yakma canlı görüntü.exe.config
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\nesne takibi 3x3 led yakma canlı görüntü.exe
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\nesne takibi 3x3 led yakma canlı görüntü.pdb
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Math.dll
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.xml
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Imaging.xml
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Video.xml
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\bin\Debug\AForge.Math.xml
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne_takibi_3x3_led_yakma_canlı_görüntü.Form1.resources
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne_takibi_3x3_led_yakma_canlı_görüntü.Properties.Resources.resources
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.csproj.CopyComplete
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.exe
+C:\Users\lenovo\Desktop\nesne takibi 3x3 led yakma canlı görüntü\nesne takibi 3x3 led yakma canlı görüntü\obj\Debug\nesne takibi 3x3 led yakma canlı görüntü.pdb
